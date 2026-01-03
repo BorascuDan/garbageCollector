@@ -1,0 +1,1 @@
+Trying to understand better memori management so i can elevate my curent coding skill. Is a simple (non-eficiant) garbage colector where i needed to use a lot of memory management knowledge and deeply understand how the stack and heap work. Grant it can be fine tuned but i m not reinventing the wheel just having fun coding
